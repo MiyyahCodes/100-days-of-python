@@ -11,7 +11,7 @@ To the mastery of Python and beyond!
 [100 Days of Code - The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code).
 
 ## 👨🏻‍🎓 | Beginner
-- [Day 1](day1): Working with Variables in Python to Manage Data 
+- [Day 1](https://github.com/MiyyahCodes/100-days-of-python/tree/main/day-1): Working with Variables in Python to Manage Data ☑️
 - [Day 2](day2): Understanding Data Types and How to Manipulate Strings 
 - [Day 3](day3): Control Flow and Logical Operators 
 - [Day 4](da4): Randomisation and Python Lists 
@@ -119,4 +119,7 @@ To the mastery of Python and beyond!
 - [Day 98](day98): Portfolio Project - Analysed and Visualise the Space Race
 - [Day 99](day99): Portfolio Project - Analyzing Deaths involving Police in the United States
 - [Day 100](day100): Portfolio Project - Predicting Earnings using Multivariable Regression
-- 
+
+
+
+credits to (https://github.com/Sissaz) for the github inspo
