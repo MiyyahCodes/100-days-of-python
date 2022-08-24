@@ -6,7 +6,7 @@
 #Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
 
 #Write your code below this line 👇
-print("Welcome to Miyyah Tip Calculator")
+print("Welcome to Miyyah Tip Calculator!")
 
 total_bill = float(input("What was the total bill?\n$"))
 
