@@ -1,11 +1,11 @@
 ## Day 3 - Control Flow and Logical Operators
 
-- [Exercise 1](): Odd or Even
-- [Exercise 2](): BMI Calculator 2.0
-- [Exercise 3](): Leap Year
-- [Exercise 4](): Pizza Order
-- [Exercise 5](): Love Calculator
+- [Exercise 1](https://replit.com/@MiyyahCodes/day-3-1-exercise-1#main.py): Odd or Even
+- [Exercise 2](https://replit.com/@MiyyahCodes/day-3-1-exercise-1#main.py): BMI Calculator 2.0
+- [Exercise 3](https://replit.com/@MiyyahCodes/day-3-1-exercise-1#main.py): Leap Year
+- [Exercise 4](https://replit.com/@MiyyahCodes/day-3-1-exercise-1#main.py): Pizza Order
+- [Exercise 5](https://replit.com/@MiyyahCodes/day-3-1-exercise-1#main.py): Love Calculator
 
-### 📝| [Treasure Island]()
+### 📝| [Treasure Island](https://replit.com/@MiyyahCodes/treasure-island-start-1#main.py)
 ![treasure-island](treasure-island.gif)
 
