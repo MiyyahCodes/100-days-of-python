@@ -14,7 +14,7 @@ To the mastery of Python and beyond!
 - [Day 1](https://github.com/MiyyahCodes/100-days-of-python/tree/main/day-1): Working with Variables in Python to Manage Data ☑️
 - [Day 2](https://github.com/MiyyahCodes/100-days-of-python/tree/main/day-2): Understanding Data Types and How to Manipulate Strings ☑️
 - [Day 3](https://github.com/MiyyahCodes/100-days-of-python/tree/main/day-3): Control Flow and Logical Operators ☑️
-- [Day 4](da4): Randomisation and Python Lists 
+- [Day 4](https://github.com/MiyyahCodes/100-days-of-python/tree/main/day-4): Randomisation and Python Lists ☑️
 - [Day 5](day5): Python Loops 
 - [Day 6](day6): Python Functions & Karel 
 - [Day 7](day7): Hangman 
