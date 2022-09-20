@@ -13,9 +13,5 @@ def turn_around():
     move()
     turn_left()
     
-turn_around()
-turn_around()
-turn_around()
-turn_around()
-turn_around()
-turn_around()
+for jump in range(6):
+    turn_around()
